@@ -1,0 +1,4 @@
+This file is a single-page react application.
+There is no server connection needed and everything runs locally.
+There should be a lot more pages (and applications) to complete the whole project.
+For every Portfolio project for example there is a 'read more' posibility where new pages can be added.
